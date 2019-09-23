@@ -1,0 +1,5 @@
+*.json
+*.env
+*.session
+*.cache*
+__pycache__/
