@@ -8,8 +8,8 @@ from termcolor import colored, cprint
 init()
 
 args = sys.argv[1:]
-api_id = 826569
-api_hash = "ff9368dceb100bd315b7fc09a5cbef7f"
+api_id = 0
+api_hash = "0"
 name = 'Spotigram'
 chat = args[0]
 playlist_name = args[1]
